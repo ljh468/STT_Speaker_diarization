@@ -7,3 +7,7 @@ venv
 /.metadata/
 
 /venv/
+
+toy_training_data.npz
+
+toy_testing_data.npz
