@@ -1,2 +1,9 @@
-/venv/
 /.idea/
+
+.idea
+
+venv
+
+/.metadata/
+
+/venv/
